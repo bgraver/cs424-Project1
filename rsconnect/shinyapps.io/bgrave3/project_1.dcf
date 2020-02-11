@@ -1,0 +1,13 @@
+name: project_1
+title: project_1
+username:
+account: bgrave3
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1774385
+bundleId: 2790658
+url: https://bgrave3.shinyapps.io/project_1/
+when: 1581386141.19982
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: fin_data.csv|proj_1.R|Untitled.ipynb|.ipynb_checkpoints/Untitled-checkpoint.ipynb
